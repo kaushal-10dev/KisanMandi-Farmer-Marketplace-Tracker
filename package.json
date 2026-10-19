@@ -1,0 +1,22 @@
+{
+  "name": "kisanmandi-ai",
+  "version": "1.0.0",
+  "description": "KisanMandi AI — Farmer Marketplace Tracker for SIH 2026",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/api_test.js"
+  },
+  "keywords": [
+    "agritech",
+    "mandi",
+    "farmers",
+    "apmc",
+    "sih2026"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
