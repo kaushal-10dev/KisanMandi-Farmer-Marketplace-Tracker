@@ -1,0 +1,2 @@
+/* KisanMandi AI frontend styles */
+:root{color-scheme:light;--green:#184c35;--gold:#e0b845}*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:#f4f7f2;color:#153a2b}main{max-width:960px;margin:3rem auto;padding:2rem;background:#fff;border-radius:18px;box-shadow:0 10px 32px #193b2715}h1{color:var(--green)}a{color:var(--green)}
