@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "node tests/api_test.js"
+    "test": "node tests/api_test.js",
+    "test:frontend": "node tests/frontend_test.js"
   },
   "keywords": [
     "agritech",
@@ -16,7 +17,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.2",
-    "cors": "^2.8.5"
+    "express": "^4.21.2"
   }
 }
